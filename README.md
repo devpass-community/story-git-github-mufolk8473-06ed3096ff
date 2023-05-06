@@ -4,4 +4,6 @@ This is your first CodeStory at Evercode.
 
 You're going to practice common Git skills that you'll use during your work here.
 
-I've edited it
+## Contributors
+
+- Denise Tech Lead
